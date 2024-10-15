@@ -4,6 +4,16 @@
 move/build
 move/.trace
 move/.coverage_map.mvcov
+standard_dao/build
+standard_dao/.trace
+standard_dao/.coverage_map.mvcov
+guild_dao/build
+guild_dao/.trace
+guild_dao/.coverage_map.mvcov
+hybrid_dao/build
+hybrid_dao/.trace
+hybrid_dao/.coverage_map.mvcov
+
 
 # Logs
 logs
