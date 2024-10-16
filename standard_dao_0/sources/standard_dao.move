@@ -18,7 +18,7 @@ module basedao_addr::standard_dao_0 {
     // Seeds
     // -----------------------------------
 
-    const APP_OBJECT_SEED : vector<u8>   = b"STANDARD_DAO_0";
+const APP_OBJECT_SEED : vector<u8> = b"STANDARD_DAO_0";
 
     // -----------------------------------
     // Structs

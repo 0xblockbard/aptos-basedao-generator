@@ -8,7 +8,7 @@ module_addr = "basedao_addr"
 
 # Init params
 start_index = 0
-num_daos    = 10
+num_daos    = 20
 dao_type    = "standard_dao"
 
 def rename_directories_and_update_contracts():

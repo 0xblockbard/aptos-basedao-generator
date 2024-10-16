@@ -7,8 +7,8 @@ base_dir    = ""
 module_addr = "basedao_addr"
 
 # Init params
-current_index = 0
-reset_index   = 10
+current_index = 4
+reset_index   = 0
 dao_type      = "standard_dao"
 
 def reset_dao_number(current_index, reset_index):
