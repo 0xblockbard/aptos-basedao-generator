@@ -4,10 +4,10 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-# basedao_addr       = '0x80fc7c711b3eeef9dc4d46cf2682196478a7dc5c6efaa49af7a5bffdb91c657a'
-# fee_receiver_addr  = '0x80fc7c711b3eeef9dc4d46cf2682196478a7dc5c6efaa49af7a5bffdb91c657a'
-basedao_addr       = '_'
-fee_receiver_addr  = '_'
+basedao_addr       = '0xfb5987bdd1ca5ce7f8148108e8c00e9bf33c78975f97d2eab5c85e0c545bcdfd'
+fee_receiver_addr  = '0xfb5987bdd1ca5ce7f8148108e8c00e9bf33c78975f97d2eab5c85e0c545bcdfd'
+# basedao_addr       = '_'
+# fee_receiver_addr  = '_'
 
 [dev-addresses]
 basedao_addr       = '0x111'
